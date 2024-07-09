@@ -23,12 +23,12 @@ The website is developed using HTMLGoogle My Maps has been used to create a loca
  # Implementation
 Welcome to our website "Indian Culture"! This is the homepage of the website which shows the logo of the website, navigation bar, and brief introduction of the website.
 
-![home page ](./home%20page.png)
+![home page ](./img/home%20page.png)
 This section of the website gives the user an overview of the famous heritage sites, and their great architecture and uniqueness in India.
 
 ### This section shows the different foods and cultures, heritage sites and the paradise of our country - India.
  
- ![infomation about ](image.png)
+ ![infomation about ](./img/image.png)
 
  Every state and city in India has it's own speciality. This section shows the Great cities of India and what are they famous for.
 
