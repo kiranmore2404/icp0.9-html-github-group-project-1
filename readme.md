@@ -37,4 +37,4 @@ This section of the website gives the user an overview of the famous heritage si
   <img src="https://contrib.rocks/image?repo=kiranmore2404/icp9.0-html-github-group-project-no-1" />
 </a>
 
- [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
