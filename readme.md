@@ -32,7 +32,7 @@ This section of the website gives the user an overview of the famous heritage si
 
  Every state and city in India has it's own speciality. This section shows the Great cities of India and what are they famous for.
 
- # Contributors
+ # Contributorsgit
  <a href="https://github.com/kiranmore2404/icp9.0-html-github-group-project-no-1/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=kiranmore2404/icp9.0-html-github-group-project-no-1" />
 </a>
